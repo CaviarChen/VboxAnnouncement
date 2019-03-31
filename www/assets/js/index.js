@@ -41,3 +41,7 @@ $('a[href*="#"]')
       }
     }
   });
+
+// light gallery
+$('#images-logo').lightGallery(); 
+$('#images-client').lightGallery(); 
