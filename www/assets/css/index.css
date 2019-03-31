@@ -1,3 +1,12 @@
+.text-right{
+  text-align: right;
+}
+
+.sticky-top{
+  padding: 40px 0;
+  white-space: nowrap;
+}
+
 .images-logo{
   padding: 10px 32% 0px;
   cursor: pointer;
