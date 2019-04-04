@@ -45,6 +45,7 @@ $('a[href*="#"]')
 // light gallery
 $('#images-logo').lightGallery(); 
 $('#images-client').lightGallery(); 
+$('#images-website').lightGallery(); 
 
 // lazy load
 $('.lazy').Lazy({
